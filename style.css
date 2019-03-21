@@ -31,6 +31,10 @@ td, th {
     /*inline-block forces content to wrap within the cell*/
 }
 
+.sidenote {
+    font-style: italic;
+}
+
 input {
     max-width: 100%;
     display: block;
